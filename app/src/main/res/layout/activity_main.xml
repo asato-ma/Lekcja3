@@ -13,5 +13,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="@string/Monday"
+        android:textSize="@dimen/my_font"
+        android:layout_marginTop="@dimen/my_dimension"/>
+
 </RelativeLayout>

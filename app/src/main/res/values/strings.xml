@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lekcja3</string>
+    <string name="Monday">Poniedziałek</string>
+    <string-array name="dni_tygodnia"
+    <item name="Poniedziałek"</item>
+    <item name="Wtorek"</item>
+    <item name="Środa"</item>
+</string-array>
+
 </resources>
